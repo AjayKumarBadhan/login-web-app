@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = 'ajay502/login-web-app'
+        IMAGE_NAME = 'ajay502/login-web-app1'
     }
 
     stages {
